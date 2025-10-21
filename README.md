@@ -34,7 +34,7 @@ int main()
 
 ## OUTPUT:
 
-
+![alt text](1.png)
 
 
 
@@ -81,7 +81,7 @@ int main()
 }
 ```
 # OUTPUT:
-[text](m12Output.exe)
+![alt text](2.png)
 
 
 
@@ -135,7 +135,7 @@ int main()
 ```
 
 ## OUTPUT:
-[text](m13Output.exe)
+![alt text](3.png)
 
 
 
@@ -180,8 +180,7 @@ int main()
 }
 ```
 ## OUTPUT:
-
-[text](m14Output.exe)
+![alt text](4.png)
 
 
 
@@ -249,7 +248,7 @@ int main()
 }
 ```
 ## OUTPUT:
-[text](m15Output.exe)
+![alt text](5.png)
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
